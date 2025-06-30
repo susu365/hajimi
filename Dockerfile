@@ -1,4 +1,4 @@
-FROM python:3.12-slim
+FROM ghcr.io/jairo-t/hajimi:1.0.1
 
 WORKDIR /app
 
